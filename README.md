@@ -5,3 +5,6 @@ Perdagangan elektronik (bahasa Inggris: electronic commerce atau [e-commerce](ht
 Industri teknologi informasi melihat kegiatan [e-commerce](https://berdu.id) ini sebagai aplikasi dan penerapan dari e-bisnis (e-business) yang berkaitan dengan transaksi komersial, seperti: transfer dana secara elektronik, SCM (supply chain management), pemasaran elektronik (e-marketing), atau pemasaran online (online marketing), pemrosesan transaksi online (online transaction processing), pertukaran data elektronik (electronic data interchange /EDI), dll.
 
 [E-commerce](https://berdu.id) merupakan bagian dari e-business, di mana cakupan e-business lebih luas, tidak hanya sekadar perniagaan tetapi mencakup juga pengkolaborasian mitra bisnis, pelayanan nasabah, lowongan pekerjaan dll. Selain teknologi jaringan www, e-commerce juga memerlukan teknologi basisdata atau pangkalan data (databases), surat elektronik (e-mail), dan bentuk teknologi non komputer yang lain seperti halnya sistem pengiriman barang, dan alat pembayaran untuk e-dagang ini.
+
+Links:
+- [Aturan Cara Beranking dan ber-SEO di Google di Tahun 2017](https://github.com/berdu/toko-eccomerce-online/blob/master/aturan-cara-beranking-dan-ber-SEO-di-Google-di-Tahun-2017.md)
