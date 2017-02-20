@@ -39,12 +39,13 @@ Ingat, Google sedang mencoba untuk menjadi jawaban untuk pertanyaan di dunia. Da
 
 Ada komidi putar, grafik pengetahuan, kotak jawaban, peta pencarian lokal, dan beberapa lagi.
 
-
 Anda tidak lagi dapat berasumsi bahwa semua konten Anda akan ditampilkan dalam "standar" hasil Google.
 
 Jadi, waktu berikutnya Anda berencana sebuah konten, dan bahkan sebelum Anda mulai menulis satu kata, luangkan waktu untuk memeriksa apa salah satu halaman Google terlihat seperti untuk kata kunci tertentu.
 
 Adalah halaman pertama penuh sesak dengan gambar dan peta? Jika demikian, konten Anda akan terdorong ke bawah halaman dan tidak mendapatkan perhatian yang layak!
+
+Agar ranking anda yang sudah naik tidak turun baca ini: __[Kenapa Ranking Website Saya Turun di Google (cara berSEO)](https://berdu.id/blog/kenapa-ranking-toko-online-di-google-turun)__
 
 ## Mobile First
 
